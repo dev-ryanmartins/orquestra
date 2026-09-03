@@ -1,0 +1,25 @@
+# Binaries
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test and profiling output
+*.test
+*.out
+coverage/
+
+# Dependency directories
+vendor/
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
